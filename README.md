@@ -1,3 +1,7 @@
+Install npm package
+# npm install
+
+
 nodemon start server.js OR
 
 node start server.js
